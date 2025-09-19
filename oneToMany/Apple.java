@@ -10,6 +10,7 @@ this.fructose=fructose;
 public void displayAppleDetails(){
 System.out.println("varity type apple name is juice="+juiceName);
 System.out.println("differnet type of price is="+juicePrice);
+System.out.println("hello")
 System.out.println(fructose.anotherName);
 System.out.println(fructose.isReailyTaste);
 }

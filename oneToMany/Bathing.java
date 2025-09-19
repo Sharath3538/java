@@ -11,6 +11,8 @@ public void displayBathingDetails(){
 System.out.println("name of the bath SoapName="+bathSoapName);
 System.out.println("bath total Duration="+bathDuration);
 System.out.println(water.litOfWater);
+System.out.println(water.litOfWater);
+
 System.out.println(water.isFilterWater);
 }
 }

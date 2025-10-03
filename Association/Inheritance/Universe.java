@@ -1,0 +1,3 @@
+class Universe extends Sky{
+	
+}
